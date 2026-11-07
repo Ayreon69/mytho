@@ -1,0 +1,11 @@
+{
+  "name": "Mytho",
+  "short_name": "Mytho",
+  "description": "Chacun raconte une vraie anecdote, sauf le Mytho, qui invente la sienne : trouvez la fausse, devinez qui a écrit quoi. De 4 à 10 joueurs.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3a0f13",
+  "theme_color": "#3a0f13",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
